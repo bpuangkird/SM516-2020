@@ -1,2 +1,3 @@
-# SM516-2020
-UTCC MFE
+# SM516 Advanced Programming
+
+<div align=right>บำรุง พ่วงเกิด</div>
